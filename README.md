@@ -1,18 +1,30 @@
-# Hi, I'm Ariram 👋
+# Hi there, I'm Ariram 👋
 
-I am a Full-Stack Developer specializing in building high-performance, responsive web applications. I focus on clean architecture, secure routing, and state management.
+### Full Stack Developer | Building scalable, data-driven web applications
 
-### 🛠️ Tech Stack
+I am a discipline-driven software developer focused on bridging intuitive front-end interfaces with robust back-end architectures. As an incoming student at Kangeyam Institute of Technology, I specialize in engineering complete digital solutions from the ground up—treating every project as an opportunity to push my technical boundaries.
+
+---
+
+### 🛠️ Core Technologies
+
 * **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS
-* **Backend:** Node.js, Python, Flask, FastAPI
-* **Databases:** MySQL, RESTful APIs
-* **Tools:** Git, GitHub, Vercel, Render
+* **Backend:** Java, Python, Node.js
+* **Database & DevOps:** MySQL, Vercel, Render, Git
+
+---
 
 ### 🚀 Featured Project: Tactile Store
-A complete two-sided e-commerce platform featuring a public storefront and a secured B2B Admin Command Center.
-* **Architecture:** Role-Based Access Control (RBAC) with dual security pipelines.
-* **State Management:** Custom React Context for real-time cart calculations.
-* **Deployment:** Dual-cloud hosting via Vercel (Frontend) and Render (Backend).
 
-### 📫 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/ariram-elangovan/)
+**[Link to Live Demo](https://tactile-store.vercel.app/)
+
+A dual-environment, full-stack e-commerce application demonstrating complex routing, state management, and role-based security. Built from the ground up in 21 days.
+* Architected a seamless B2C storefront using **React** and a custom Context API.
+* Engineered a secured B2B admin command center with full RESTful CRUD capabilities.
+* Orchestrated a decoupled cloud deployment using **Vercel** and **Render**.
+
+---
+
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/ariram-elangovan/)
