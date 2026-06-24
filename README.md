@@ -8,7 +8,7 @@ I am a discipline-driven software developer focused on bridging intuitive front-
 
 ### 🛠️ Core Technologies
 
-* **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS
+* **Frontend:** React, JavaScript, HTML5, CSS3,React, Tailwind CSS
 * **Backend:** Java, Python, Node.js
 * **Database & DevOps:** MySQL, Vercel, Render, Git
 
@@ -16,7 +16,7 @@ I am a discipline-driven software developer focused on bridging intuitive front-
 
 ### 🚀 Featured Project: Tactile Store
 
-**[Link to Live Demo](https://tactile-store.vercel.app/)
+[Link to Live Demo](https://tactile-store.vercel.app/)
 
 A dual-environment, full-stack e-commerce application demonstrating complex routing, state management, and role-based security. Built from the ground up in 21 days.
 * Architected a seamless B2C storefront using **React** and a custom Context API.
