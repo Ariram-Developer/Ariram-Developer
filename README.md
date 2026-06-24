@@ -31,10 +31,6 @@ A dual-environment, full-stack e-commerce application demonstrating complex rout
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariram-Developer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
 <br/>
 
 <div align="center">
