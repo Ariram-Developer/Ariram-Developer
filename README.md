@@ -8,7 +8,7 @@ I am a discipline-driven software developer focused on bridging intuitive front-
 
 ### 🛠️ Core Technologies
 
-* **Frontend:** React, JavaScript, HTML5, CSS3,React, Tailwind CSS
+* **Frontend:** React, JavaScript, HTML5, CSS3, React, Tailwind CSS
 * **Backend:** Java, Python, Node.js
 * **Database & DevOps:** MySQL, Vercel, Render, Git
 
